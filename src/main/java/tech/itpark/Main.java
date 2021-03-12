@@ -1,6 +1,6 @@
 package tech.itpark;
 
-import tech.itpark.ad.Film;
+import tech.itpark.domain.Film;
 import tech.itpark.manager.Afisha;
 
 

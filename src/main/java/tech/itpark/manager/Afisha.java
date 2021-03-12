@@ -1,7 +1,7 @@
 package tech.itpark.manager;
 
 
-import tech.itpark.ad.Film;
+import tech.itpark.domain.Film;
 
 import java.util.ArrayList;
 

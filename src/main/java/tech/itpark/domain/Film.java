@@ -1,4 +1,4 @@
-package tech.itpark.ad;
+package tech.itpark.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
