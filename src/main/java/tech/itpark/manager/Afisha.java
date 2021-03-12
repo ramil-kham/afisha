@@ -1,4 +1,4 @@
-package tech.itpark.domain;
+package tech.itpark.manager;
 
 
 import tech.itpark.ad.Film;

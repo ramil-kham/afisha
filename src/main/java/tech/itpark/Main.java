@@ -1,7 +1,7 @@
 package tech.itpark;
 
 import tech.itpark.ad.Film;
-import tech.itpark.domain.Afisha;
+import tech.itpark.manager.Afisha;
 
 
 public class Main {
